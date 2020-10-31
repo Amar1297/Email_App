@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_mail">Mail</string>
+    <string name="title_profile">Profile</string>
+    <string name="todo">todo</string>
+
+</resources>
